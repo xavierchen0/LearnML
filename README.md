@@ -9,5 +9,5 @@ Learning Machine Learning from Introduction to Statistical Learning by Trevor Ha
 5. [Resampling Methods](https://github.com/xavierchen0/LearnML/tree/main/5.%20Resampling%20Methods)
 	- **Key concepts**: Cross-Validation, Bootstrap, Leave-One-Out Cross-Validation (LOOCV), K-Fold Cross-Validation
   
-6. [Linear Model Selection and Regularisation]()
+6. [Linear Model Selection and Regularisation](https://github.com/xavierchen0/LearnML/tree/main/6.%20Linear%20Model%20Selection%20and%20Regularisation)
    - **Key concepts**: Best subset selection, forward stepwise selection, backward stepwise selection, ridge regression, lasso, hyperparameter tuning, principal components regression, partial least squares
